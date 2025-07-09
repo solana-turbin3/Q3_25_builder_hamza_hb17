@@ -1,0 +1,12 @@
+[submodule "Gill"]
+	path = Gill
+	url = https://github.com/hamza-Hb17/gill-mint
+[submodule "airdrop"]
+	path = airdrop
+	url = https://github.com/hamza-Hb17/airdrop
+[submodule "airdrop_rust"]
+	path = airdrop_rust
+	url = https://github.com/hamza-Hb17/airdrop_rust
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/hamza-Hb17/solana-starter
