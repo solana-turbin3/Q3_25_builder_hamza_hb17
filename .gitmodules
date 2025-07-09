@@ -10,3 +10,6 @@
 [submodule "solana-starter"]
 	path = solana-starter
 	url = https://github.com/hamza-Hb17/solana-starter
+[submodule "vault-turbin3"]
+	path = vault-turbin3
+	url = https://github.com/hamza-Hb17/vault-turbin3
