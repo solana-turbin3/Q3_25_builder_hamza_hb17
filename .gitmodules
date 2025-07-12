@@ -13,3 +13,6 @@
 [submodule "vault-turbin3"]
 	path = vault-turbin3
 	url = https://github.com/hamza-Hb17/vault-turbin3
+[submodule "anchor-amm"]
+	path = anchor-amm
+	url = https://github.com/hamza-Hb17/Anchor-AMM
