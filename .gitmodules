@@ -16,3 +16,6 @@
 [submodule "anchor-amm"]
 	path = anchor-amm
 	url = https://github.com/hamza-Hb17/Anchor-AMM
+[submodule "nft-staking"]
+	path = nft-staking
+	url = https://github.com/hamza-Hb17/nft-staking
