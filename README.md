@@ -14,8 +14,6 @@ It includes links to all standalone projects (hosted in separate GitHub repos) c
 | [`Gill`](https://github.com/your-username/Gill)                     | Create, mint, and transfer tokens using the **Gill SDK**.                              |
 | [`solana-starter`](https://github.com/your-username/solana-starter) | Hands-on experiments: minting, signing transactions, NFTs, building a vault, and more. |
 
-> Replace `your-username` with your actual GitHub username or organization name.
-
 ---
 
 ## 🧠 Tech Stack
