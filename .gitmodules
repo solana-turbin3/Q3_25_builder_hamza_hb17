@@ -19,3 +19,6 @@
 [submodule "nft-staking"]
 	path = nft-staking
 	url = https://github.com/hamza-Hb17/nft-staking
+[submodule "anchor-marketplace"]
+	path = anchor-marketplace
+	url = https://github.com/hamza-Hb17/Anchor-Marketplace
