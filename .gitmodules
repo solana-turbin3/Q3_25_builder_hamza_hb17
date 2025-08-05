@@ -22,3 +22,6 @@
 [submodule "anchor-marketplace"]
 	path = anchor-marketplace
 	url = https://github.com/hamza-Hb17/Anchor-Marketplace
+[submodule "capstone-nft-crowdfund"]
+	path = capstone-nft-crowdfund
+	url = https://github.com/hamza-Hb17/capstone-nft-crowdfund/tree/main
